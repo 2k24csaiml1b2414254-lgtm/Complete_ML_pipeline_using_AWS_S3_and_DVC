@@ -1,3 +1,8 @@
+# tracked by dvc so ignore it by git
+data
+models
+reports
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
